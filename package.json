@@ -1,0 +1,16 @@
+{
+  "name": "node_express_sequelize",
+  "version": "1.0.0",
+  "description": "node express crud with sequelize",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "sequelize"
+  ],
+  "author": "viththagan",
+  "license": "ISC"
+}
